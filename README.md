@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aperkins7446
 - 👀 I’m interested in finding other software development students, and experienced mentors 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently working on my Capstone Project for Software Development
 - 💞️ I’m looking to collaborate on nothing at the moment, but future projects will probably be related to school.
 - 📫 How to reach me aperkins7446@gmail.com
 
